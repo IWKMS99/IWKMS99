@@ -35,7 +35,7 @@ A **backend-focused** personal blog platform built with Spring Boot, Hibernate, 
 
 ## 📈 GitHub Stats
 
-![Said's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iwkms99\&show_icons=true\&theme=radical)
+![Said's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iwkms99&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iwkms99&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
