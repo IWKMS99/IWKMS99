@@ -10,10 +10,10 @@ I'm a Computer Science student at MTUCI, passionate about building **scalable**,
 
 | Category      | Technologies                                                    | Proficiency |
 | ------------- | --------------------------------------------------------------- | ----------- |
-| **Backend**   | Java, Spring Boot, Hibernate / JPA, RESTful APIs, Microservices | ★★★★★       |
-| **Database**  | PostgreSQL, MongoDB                                             | ★★★★☆       |
-| **DevOps**    | Docker & Docker Compose, GitHub & GitLab Pipelines, Jenkins     | ★★★★☆       |
-| **Tools**     | Git                                                             | ★★★★★       |
+| **Backend**   | Java, Spring Boot, Hibernate / JPA, RESTful APIs, Microservices | ★★★★☆       |
+| **Database**  | PostgreSQL, MongoDB                                             | ★★★☆☆       |
+| **DevOps**    | Docker & Docker Compose, GitHub & GitLab Pipelines, Jenkins     | ★★★☆☆       |
+| **Tools**     | Git                                                             | ★★★★☆       |
 | **Languages** | English (C1)                                                    | Fluent      |
 
 ---
