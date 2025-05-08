@@ -36,7 +36,7 @@ A lightweight chat system using a microservice architecture:
 * 🗄️ **Spring Data JPA** + PostgreSQL for persistence  
 * 🔐 **Spring Security** on both HTTP and WS connections  
 * 🎨 **Thymeleaf UI** for browser-based chat client  
-> 🔗 [Repository](https://github.com/iwkms99/ChatApp)
+> 🔗 [Repository](https://github.com/IWKMS99/ChatService)
 
 ---
 
