@@ -1,8 +1,8 @@
-# 👋 Hey there, I’m Said
+# 👋 Hey there, I'm Said
 
 ### Java Backend Developer | MTUCI
 
-I’m a Computer Science student at MTUCI, passionate about building **scalable**, **secure**, and **robust** backend systems in Java. I thrive on solving complex challenges, collaborating with diverse teams, and continuously expanding my expertise in software engineering. 🚀
+I'm a Computer Science student at MTUCI, passionate about building **scalable**, **secure**, and **robust** backend systems in Java. I thrive on solving complex challenges, collaborating with diverse teams, and continuously expanding my expertise in software engineering. 🚀
 
 ---
 
@@ -30,19 +30,21 @@ A **backend-focused** blog platform built with Spring Boot, Hibernate & PostgreS
 > 🔗 [Repository](https://github.com/iwkms99/SpringPersonalBlog)
 
 ### 2. ChatApp Microservice  
-A lightweight chat system using a microservice architecture:  
-* 🔑 **AuthService** issues JWT tokens, handles registration & login  
+A modular chat system using microservice architecture:  
+* 🔑 **AuthService** handles registration & login  
 * 💬 **ChatService** offers REST & WebSocket (STOMP) endpoints for messaging  
+* 🛡️ **common-security** module for centralized JWT authentication components  
 * 🗄️ **Spring Data JPA** + PostgreSQL for persistence  
-* 🔐 **Spring Security** on both HTTP and WS connections  
+* 🔐 **Spring Security** with unified implementation across services  
 * 🎨 **Thymeleaf UI** for browser-based chat client  
-> 🔗 [Repository](https://github.com/IWKMS99/ChatService)
+* 🏗️ **Modular architecture** to eliminate code duplication  
+> 🔗 [Repository](https://github.com/iwkms99/ChatService)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Said’s GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iwkms99&theme=radical)  
+![Said's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iwkms99&theme=radical)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iwkms99&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
@@ -55,11 +57,11 @@ A lightweight chat system using a microservice architecture:
 
 ---
 
-## 🚀 What I’m Exploring Next
+## 🚀 What I'm Exploring Next
 
 1. **Design and architect microservices** with Spring Cloud *(by Summer 2025)*  
 2. **Deepen expertise in Spring Security** and OAuth2 flows *(by June 2025)*  
 3. **Experiment with Kubernetes** for container orchestration *(July 2025)*  
 4. **Contribute to open-source** Java/Spring projects *(ongoing)*  
 
-> Let’s build something amazing together! Feel free to reach out if you’d like to collaborate or chat about backend engineering. 😊  
+> Let's build something amazing together! Feel free to reach out if you'd like to collaborate or chat about backend engineering. 😊  
