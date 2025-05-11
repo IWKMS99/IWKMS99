@@ -22,11 +22,14 @@ I'm a Computer Science student at MTUCI, passionate about building **scalable**,
 ## 🌟 Featured Projects
 
 ### 1. SpringPersonalBlog  
-A **backend-focused** blog platform built with Spring Boot, Hibernate & PostgreSQL:  
-* 🔒 **JWT Authentication** for secure, role-based access  
-* 📄 **RESTful CRUD API** for posts, comments & users  
-* 🐳 **Dockerized** setup for fast dev & deploy  
-* 📦 **Clean Architecture** separating controllers, services & repos  
+A full-stack blog platform built with Spring Boot, Thymeleaf, Hibernate & PostgreSQL:
+🔒 **Spring Security** with role-based access (USER/ADMIN roles)
+📄 **Complete CRUD** operations for posts, categories, and users
+👤 **Admin dashboard** with user role management and category administration
+🧪 **JUnit & Mockito test** coverage for controllers and services
+📦 **Clean Architecture** with constants extraction for maintainability
+🌐 **Admin API** endpoints for simplified role management
+🔍 **Search functionality** with pagination for better UX
 > 🔗 [Repository](https://github.com/iwkms99/SpringPersonalBlog)
 
 ### 2. ChatApp Microservice  
