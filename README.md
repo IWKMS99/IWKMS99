@@ -59,17 +59,13 @@ A full-stack blog application demonstrating solid fundamentals in web developmen
 ![Said's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iwkms99&theme=radical)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iwkms99&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
 ---
 
-## 🗺️ My Learning Roadmap
+## 🏆 Achievements & Awards
 
-My goal is to continuously deepen my expertise in building large-scale, resilient systems. Here's what's next on my list:
-
-1.  **Evolve the Monolith:** Deconstruct my e-commerce platform into true microservices, replacing the internal event bus with **Kafka** and introducing **Spring Cloud Gateway** for routing. *(Target: Q4 2024)*
-2.  **Master Container Orchestration:** Containerize the new microservices and deploy them on a **Kubernetes** cluster, managing the deployment with **Helm** charts. *(Target: Q1 2025)*
-3.  **Dive into Observability:** Instrument my services with **Micrometer**, collect metrics with **Prometheus**, and build monitoring dashboards in **Grafana** to understand system performance in real-time. *(Target: Q1 2025)*
-4.  **Explore Reactive Programming:** Re-implement a high-throughput service (like a real-time notification service) using **Spring WebFlux** and **Project Reactor**. *(Target: Q2 2025)*
+*   **Winner, University-level Java Programming Olympiad (2024)**: Secured first place in a competitive programming contest, demonstrating advanced problem-solving and algorithmic skills in Java.
+*   **Top Project Award (2024)**: Received the "Best Course Project" award for "AutoML", a full-stack web application for automated CSV data classification using PyCaret. The project was recognized for its successful integration of a machine learning pipeline, robust full-stack architecture, and effective UI/UX design.
+*   **Prize Winner, "Algorithmics" Global Junior Hackathon**: Awarded a prize in the world-wide junior hackathon (U-17 category)
 
 ---
 
