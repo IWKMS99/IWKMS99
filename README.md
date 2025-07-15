@@ -61,11 +61,13 @@ A full-stack blog application demonstrating solid fundamentals in web developmen
 
 ---
 
-## 🏆 Achievements & Awards
+## 🏆 Achievements & Recognition
 
-*   **Winner, University-level Java Programming Olympiad (2024)**: Secured first place in a competitive programming contest, demonstrating advanced problem-solving and algorithmic skills in Java.
-*   **Top Project Award (2024)**: Received the "Best Course Project" award for "AutoML", a full-stack web application for automated CSV data classification using PyCaret. The project was recognized for its successful integration of a machine learning pipeline, robust full-stack architecture, and effective UI/UX design.
-*   **Prize Winner, "Algorithmics" Global Junior Hackathon**: Awarded a prize in the world-wide junior hackathon (U-17 category)
+I'm driven by a passion for excellence and enjoy applying my skills in competitive environments. Some of my key accomplishments include:
+
+-   🥇 **1st Place, University Java Programming Olympiad (MTUCI, 2024)** — Secured the top position, demonstrating advanced proficiency in Java algorithms and problem-solving.
+-   🏆 **Finalist, "Battle of Universities" at YOUNG CON 2025** — Recognized as a top contender in a major inter-university programming competition held at a national IT conference.
+-   🏅 **Award Winner, Algoritmika International Junior Hackathon** — Achieved a top-ranking position in a global hackathon for participants under 17.
 
 ---
 
