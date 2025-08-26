@@ -12,7 +12,7 @@ My main focus is on the **Java & Spring ecosystem**, where I enjoy architecting 
 
 | Category               | Technologies                                                              |
 | ---------------------- | ------------------------------------------------------------------------- |
-| **Languages & Core**   | Java, Python                                                              |
+| **Languages & Core**   | Java, C#, Python                                                          |
 | **Frameworks**         | Spring Boot, Spring Security, Spring Data (JPA, Redis)                    |
 | **Databases**          | PostgreSQL (Advanced), Redis, MongoDB                                     |
 | **Architecture**       | Modular Monolith, Microservices, Event-Driven, REST                       |
