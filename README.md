@@ -44,13 +44,13 @@ A distributed chat system built to explore core microservice patterns, including
 * 🏗️ **Modular architecture** to eliminate code duplication.
 > 🔗 [Repository](https://github.com/iwkms99/ChatService)
 
-### 3. SpringPersonalBlog  
-A full-stack blog application demonstrating solid fundamentals in web development with the Spring ecosystem.
-* 🔒 **Spring Security** with role-based access control.
-* 📄 **Complete CRUD** operations for posts, categories, and users.
-* 👤 **Admin dashboard** with user and category management.
-* 🔍 **Search functionality** with pagination for better UX.
-> 🔗 [Repository](https://github.com/iwkms99/SpringPersonalBlog)
+### 3. RoomFlow - Full-Stack Booking System
+A comprehensive, full-stack application for booking meeting rooms, built with a production-ready mindset.
+* 🏗️ **Production-Ready Docker Environment:** Features multi-stage Docker builds for both the **React** frontend and **Spring Boot** backend, orchestrated with Docker Compose and fronted by an **Nginx** reverse proxy.
+* 🌐 **Modern Full-Stack Architecture:** Combines a reactive **React 19 (TypeScript)** frontend with a robust **Spring Boot 3** REST API backend.
+* ✅ **Automated CI & Code Quality:** Integrated **GitHub Actions** pipeline that runs tests, static analysis (PMD, SpotBugs), and code formatting (Spotless) on every commit.
+* 📅 **Core Functionality:** Secure user authentication (JWT), an interactive room availability schedule, and personal booking management.
+> 🔗 [Repository](https://github.com/iwkms99/RoomFlow)
 
 ---
 
