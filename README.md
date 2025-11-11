@@ -12,12 +12,12 @@ My main focus is on the **Java & Spring ecosystem**, where I enjoy architecting 
 
 | Category               | Technologies                                                              |
 | ---------------------- | ------------------------------------------------------------------------- |
-| **Languages & Core**   | Java, C#, Python                                                          |
+| **Languages & Core**   | Java, Kotlin, Android SDK, C#, Python                                     |
 | **Frameworks**         | Spring Boot, Spring Security, Spring Data (JPA, Redis)                    |
 | **Databases**          | PostgreSQL (Advanced), Redis, MongoDB                                     |
 | **Architecture**       | Modular Monolith, Microservices, Event-Driven, REST                       |
 | **Testing**            | JUnit 5, Mockito, Testcontainers, MockMvc, AssertJ                        |
-| **DevOps & CI/CD**     | Docker, Docker Compose, GitHub Actions, Jenkins & GitLab Pipelines        |
+| **DevOps & CI/CD**     | Docker, Docker Compose, GitHub Actions, Jenkins & GitLab Pipelines, Gradle|
 | **Messaging & Queues** | RabbitMQ, Kafka, Spring Events                                            |
 
 ---
